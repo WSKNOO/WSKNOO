@@ -4,7 +4,8 @@
 - 📫 How to reach me : [personal blog](http://www.neo-wskn.com) [currently under construction]
 
 ------
-`Be a programmer for a living.`
+`Be a programmer for a living.`  
+
 `Be a writer for the dream.`
 
 <!---
