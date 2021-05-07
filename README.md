@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @WSKNOO
 - 👀 I’m interested in kinds of novels and manga
 - 🌱 I’m currently learning how to develop personal website
-- 📫 How to reach me : [personal blog](http://www.neo-wskn.com) [currently under construction]\n
+- 📫 How to reach me : [personal blog](http://www.neo-wskn.com) [currently under construction]
+
+------
 `Be a programmer for a living.`
 `Be a writer for the dream.`
 
